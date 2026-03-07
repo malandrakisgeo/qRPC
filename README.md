@@ -31,13 +31,13 @@ Each session is uniquely identified by the MAC of the client and a client-specif
 ## Potential real-life use cases of qRPC
 
 
-1. Nuclear reactors
+#### 1. Nuclear reactors
 If anything goes wrong in a nuclear reactor, a delay of even several microseconds can lead to a nuclear accident. Remotely triggering an operation that shuts off the operation as soon as possible is crucial to prevent nuclear accidents. Omitting the computational overhead that comes with conventional TCP or even UDP can speed up the operation.
 
-2. Missile intereception or other defence systems
+#### 2. Missile intereception or other defence systems
 In the era of drones and hypersonic missiles, intereception systems cannot possible waste milliseconds following conventional transport-layer protocols. When one or more sensors detect a threat, instantaneously reacting to it is a matter of life and death.
 
-3. Sensitive power grid operations
+#### 3. Sensitive power grid operations
 When a fault or anything unpredictable occurs on a high-voltage grid, immediately informing a central system of it or shutting off parts of the grid in advance to avoid cascades is a must. A delay can be catastrophic.
 
 
