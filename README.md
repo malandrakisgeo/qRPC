@@ -50,6 +50,6 @@ See qRPC.md
 
 ## Sample implementation
 
-This repository contains a sample implementation that was initially generated with Claude Opus 4.6, with several manual modifications and bugfixes added in advance. The prompt was the content of qRPC.md.
+This repository contains a sample implementation that was initially generated with Claude Opus 4.6, with several manual modifications and bugfixes added afterwards. The prompt was the content of qRPC.md.
 
 
